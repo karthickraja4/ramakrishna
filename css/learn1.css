@@ -1,0 +1,98 @@
+body{
+	background-color: #f7f7fa !important;
+}
+.top-header{
+	text-align: center;
+	font-size: 45px;
+	font-family: 'Noto Sans';
+	color: #414d5a;
+	font-weight: bold;
+	display: inherit;
+    margin-top: -73px;
+    padding-right: 85px;
+}
+.dropdown{
+	padding: 3px;
+}
+#drop1:hover{
+	background-color: transparent;
+	border:1px solid #bfbfbf;
+	border-radius: 1px;
+}
+.dropdown-menu li a{
+	background-color: #f7f7fa;
+}
+carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+  #myCarousel{
+  	margin-right: 52px;
+   margin-left: 52px;
+   border:2px solid gray;
+   background-color: #f7f7fa;
+   padding: 10px;
+   border-radius: 8px;
+  }
+  .tabe{
+  	margin-top: 60px;
+  	margin-right: 0px;
+  	border: 1px solid gray;
+    padding: 40px;
+    background-color: #404040;
+    border-radius: 8px;
+  }
+  .nav-tabs li a{
+  	color: white;
+  }
+  .imgs{
+  	margin-top: 100px;
+  }
+  .well{
+  	background-color: rgba(226, 230, 237, 0.96) !important;
+  }
+  .well ul li{
+  		font-size: 16px;	
+  }
+  .well ul li a{
+  	color: orange;
+  }
+  .welll{
+  	background-color: rgba(226, 230, 237, 0.96);
+  	padding: 10px 61px;
+  	margin-bottom: 10px;
+  	border-radius: 5px;
+  }
+  .mda{
+  	border:3px solid #dfe2e8;
+  	padding: 18px;
+  	border-radius: 6px;
+  }
+  .updt{
+  	margin-top: 100px;
+  }
+  .welll ul li a{
+            color: red;
+  }
+  .updt ul li a{
+  	   color: red;
+  }
+  .welll p{
+  		font-weight: 600;
+  		font-style: italic;
+  }
+  .cont{
+  	background-color:rgba(226, 230, 237, 0.96); 
+  }
+  footer{
+  	padding: 55px;
+background-color: rgba(226, 230, 237, 0.96);
+  }
+  .tab-content p{
+  	line-height: 3em;
+  	color: white;
+  }
+ .icon-bar {
+   background-color: black !important;
+}
